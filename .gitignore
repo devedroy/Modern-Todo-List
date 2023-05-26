@@ -13,3 +13,7 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+vcs.xml
+misc.xml
+Project_Default.xml
